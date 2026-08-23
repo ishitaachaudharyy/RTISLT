@@ -1,0 +1,7 @@
+sample_id,sign,path,frames
+HELLO_001,HELLO,data/landmarks/custom/HELLO/sample_001.npy,227
+HELLO_002,HELLO,data/landmarks/custom/HELLO/sample_002.npy,56
+HELLO_003,HELLO,data/landmarks/custom/HELLO/sample_003.npy,83
+HELLO_004,HELLO,data/landmarks/custom/HELLO/sample_004.npy,93
+HELLO_005,HELLO,data/landmarks/custom/HELLO/sample_005.npy,93
+HELLO_006,HELLO,data/landmarks/custom/HELLO/sample_006.npy,91
