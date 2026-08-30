@@ -1,0 +1,2 @@
+sample_id,label,split,video_path,landmark_path,frames,shape,nan_values,status
+MVI_9448,1. loud,train,Adjectives/1. loud/MVI_9448.MOV,data\landmarks\include50\train\Adjectives_1_loud_MVI_9448.npy,56,"(56, 225)",0,processed
